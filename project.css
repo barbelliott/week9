@@ -1,19 +1,23 @@
 p { font-family: Papyrus, sans-serif;
-	color: #336600
+	color: #336600;
+	font-size: 16pt;
 }
 h1{
 	font-family: Papyrus, sans-serif;
-	color: #ff9900
+	color: #ff9900;
+	font-size: 36pt;
 }
 header >	p{
 		background: rgb(143,163,80); 
-		font-family: Papyrus, sans-serif; 
+		font-family: Papyrus, sans-serif;
+		font-size: 24pt; 
 		height: 80px; 
 		color: White;    
 		}
 footer  > p{
 	background: rgb(143,163,80); 
 	font-family: Papyrus, sans-serif; 
+	font-size: 24pt;
 	height: 80px; 
 	color: White;    
 }
@@ -34,11 +38,14 @@ footer  > p{
 }
 a:link {
 	color: #003300;
-		font-family: Papyrus, sans-serif;
+	font-family: Papyrus, sans-serif;
+	font-size: 16pt;
 }
 a:visited {
 	color: #990033;
 		font-family: Papyrus, sans-serif;
+	font-size: 16pt;
+
 }
 table {
 	border-collapse:collapse;
@@ -51,6 +58,8 @@ table {
 		border:1px solid #fff;
 		border-width:0 1px 1px 0;
 		font-family: Papyrus, sans-serif;
+	font-size: 16pt;
+
 		}
 	thead th {
 		background:#66a9bd;
